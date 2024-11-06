@@ -19,5 +19,5 @@ Coming soon!
 
 | Test File | Description | Grid Size | Time (ms) |
 | :--- | :--- | ---: | ---: |
-| e.in | letter 'e' | $8\times 8$ | 0.35 |
-| soccer.in | a person about to kick a ball | $20\times 20$ | 58.57 |
+| e.in | letter 'e' | 8 × 8 | 0.35 |
+| soccer.in | a person about to kick a ball | 20 × 20 | 58.57 |
