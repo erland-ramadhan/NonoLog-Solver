@@ -17,6 +17,8 @@ Coming soon!
 
 ## How is the performance (so far)?
 
+The tests was run on Intel(R) 8th gen 1.7 GHz quad-core processor with 16 GB of RAM. The test cases will be kept updated.
+
 | Test File | Description | Grid Size | Time (ms) |
 | :--- | :--- | ---: | ---: |
 | e.in | letter 'e' | 8 × 8 | 0.35 |
